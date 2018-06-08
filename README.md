@@ -19,7 +19,7 @@ pretty json:
 cat osxcollect-2018_06_08-10_35_14.json | jq '.' 
 
 how many output;
-cat osxcollect-2018_06_08-10_35_14.json | wc -l  z002kmz@acbc32b40e83
+cat osxcollect-2018_06_08-10_35_14.json | wc -l 
    66768
 
 how many sections & subsections:
